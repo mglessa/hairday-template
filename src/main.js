@@ -11,4 +11,4 @@ import './styles/schedule.css'
 // JS
 import './modules/page-load.js'
 import './modules/form/submit.js'
-import './modules/schedules/load.js'
+import './modules/form/date-change.js'
